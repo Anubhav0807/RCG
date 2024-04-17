@@ -32,9 +32,9 @@ This RCG App (Report Card Generator) is created by Anubhav Jha.
 
 1. Run the program named "main.py"
 2. To connect to the MySQL Server and select the database you will
-   need to access the <DEV MODE>!
-   The <DEV MODE> can be accessed from anywhere on the window by 
+   need to access the DEV MODE!
+   The DEV MODE can be accessed from anywhere on the window by 
    typing the command "dev" while holding the '\\' key down.
-3. The <DEV MODE> also has a Random Record Generator so that the
+3. The DEV MODE also has a Random Record Generator so that the
    app can be tested without wasting any time on manually inserting
-   few record of students for test purposes.
+   few record of students for testing purposes.
